@@ -10,3 +10,7 @@ I am a Cyber Security Consultant at MWR CyberSec with a background in Computer E
 
 ## Current Work
 I am a Cyber Security Consultant at MWR CyberSec focusing on Mobile Security. In my free time I explore reinforcement learning, create technical educational content on machine learning, reinforcement learning, and cybersecurity topics.
+
+## Find my content at
+- https://www.youtube.com/@mlmania5/videos
+- https://medium.com/@david-de-villiers
